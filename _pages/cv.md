@@ -24,5 +24,5 @@ Work experience
 * 2018-2020: Postodocal Researcher
   * Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)
   * Supervisor: Emilio Hernández-García and Cristóbal López
-  
-You can find my complete cv <a href="https://ehcolombo.github.io/files/cv.pdf" target="_blank">here</a>.
+
+You can find my list of publication at <a href="https://scholar.google.com.br/citations?user=mMCHQ9oAAAAJ&hl=en-us">Google Scholar</a> and my complete cv <a href="https://ehcolombo.github.io/files/cv.pdf" target="_blank">here</a>.
