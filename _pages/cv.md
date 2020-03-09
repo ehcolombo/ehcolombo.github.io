@@ -25,4 +25,4 @@ Work experience
   * Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)
   * Supervisor: Emilio Hernández-García and Cristóbal López
   
-  
+you can find my full cv <a href="https://ehcolombo.github.io/files/cv.pdf">here</a>
