@@ -21,7 +21,7 @@ Work experience
   * Princeton Univeristy, Departament of Ecology and Evolutionary Biology
   * Supervisor: Corina Tarnita and Juan Bonachela
 
-* 2018-2020: Postodocal Researcher
+* 2018-2020: Postdoctoral Researcher
   * Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)
   * Supervisor: Emilio Hernández-García and Cristóbal López
 
