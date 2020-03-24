@@ -13,8 +13,7 @@ Education
 ======
 * B.S. in Physics, PUC-Rio, 2012
 * M.S. in Physics, PUC-Rio, 2014
-* Ph.D in Physics, PUC-Rio, 2018
-        _advised by: Prof. Celia Anteneodo
+* Ph.D in Physics, PUC-Rio, 2018 <font size="6">(advised by: Prof. Celia Anteneodo)</font>
 
 Work experience
 ======
