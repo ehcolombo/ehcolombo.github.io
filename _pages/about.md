@@ -8,7 +8,7 @@ redirect_from:
   - /about.html	
 ---
 
-I'm a physicist interested in the macroscopic phenomena that emerge in biological populations, focusing on topics such as population survival in heterogeneous environment, self-organization and ecosystem diversity. I received my doctoral degree in 2018, at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), with the thesis “Collective behavior of living beings under spatiotemporal environmental fluctuations”, advised by prof. Celia Anteneodo. Currently, I'm a Postdoctoral Research Associate under the supervision of professors Corina Tarnita and Juan Bonachela, at the Departament of Ecology and Evolutionary Biology, Princeton University (2020-).
+I am a physicist interested in the macroscopic phenomena that emerge in biological populations, focusing on topics such as population survival in heterogeneous environment, self-organization and ecosystem diversity. Currently, I am a Postdoctoral Research Associate under the supervision of professors Corina Tarnita (Departament of Ecology and Evolutionary Biology, Princeton University) and Juan Bonachela (Department of Ecology, Evolution, and Natural Resources, Rutgers University). I received my doctoral degree in 2018, at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), with the thesis “Collective behavior of living beings under spatiotemporal environmental fluctuations”, advised by prof. Celia Anteneodo. 
 
 
 <p align="center">
