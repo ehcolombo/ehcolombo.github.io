@@ -19,5 +19,5 @@ I am a physicist interested in the macroscopic phenomena that emerge in biologic
   <img width="499" height="129" src="https://ehcolombo.github.io/images/spacetime.png">
 </p>
 <p align="center">
-  <img width="360" height="479" src="https://ehcolombo.github.io/images/images/bg.png">
+  <img width="360" height="479" src="https://ehcolombo.github.io/images/bg.png">
 </p>
