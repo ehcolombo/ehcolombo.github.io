@@ -3,6 +3,9 @@ layout: archive
 title: "Gallery"
 permalink: /
 author_profile: true
+redirect_from:
+  - /gallery
+  - /gallery.html
 ---
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 50%; float: left;"> 
