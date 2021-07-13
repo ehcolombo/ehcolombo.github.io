@@ -1,7 +1,7 @@
 ---	
 layout: archive
 title: "Gallery"
-permalink: /gallery/
+permalink: /
 author_profile: true
 ---
 <div style="width: 100%; overflow: hidden;">
