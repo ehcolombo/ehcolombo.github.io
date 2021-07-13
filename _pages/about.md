@@ -1,6 +1,6 @@
 ---	
 permalink: /	
-title: "About"  
+title: " "  
 excerpt: "About me"	
 author_profile: true	
 redirect_from: 	
@@ -15,7 +15,7 @@ I am a physicist interested in the macroscopic phenomena that emerge in biologic
   <img width="499" height="129" src="https://ehcolombo.github.io/images/spacetime.png">
 </p>
 -->
-asd
+
 <p align="center">
   <img width="720" height="712" src="https://ehcolombo.github.io/images/bg.png">
 </p>
