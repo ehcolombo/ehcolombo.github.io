@@ -4,7 +4,6 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 redirect_from:
-  - /
   - /gallery.html
 ---
 <div style="width: 100%; overflow: hidden;">
