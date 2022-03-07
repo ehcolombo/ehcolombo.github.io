@@ -30,12 +30,12 @@ I am a physicist interested in the macroscopic phenomena that emerge in biologic
 
 -->
 
-
+<p align="justify">
 I'm a physicist broadly interested in understanding emergent phenomena in biological and ecological systems. Most of my previous studies have focused on understanding the mechanisms behind the species spatial patterns and its ecological consequences. Recently, using theoretical models, collaborations and I have been making an effort to provide a two-way connection between small and large scales. From the bottom-up, it takes an essential step to foresee ecosystem response due to shifts in traits and environmental constraints. From the top-down, it allows us to read small-scale dynamics from large-scale observations.
 
 Currently, I'm a postdoctoral research associate at <a href="https://scholar.princeton.edu/ctarnita/home">Tarnita</a> (EEB, Princeton University) and <a href="http://www.ugr.es/~jabonachela/">Bonachela</a> (Rutgers University, DEENR) Labs. Previously, I was a postdoctoral researcher at IFISC (Institute for Cross-Disciplinary Physics and Complex Systems) working with <a href="https://ifisc.uib-csic.es/users/emilio/">E. Hernández-García</a> and <a href="https://scholar.google.com/citations?user=HPapE6oAAAAJ&hl=en&oi=ao">C. López</a>. During my PhD, I was advised by 
 <a href="https://sites.google.com/view/complex-systems-fis-puc-rio">C. Anteneodo</a> at PUC-Rio.
-
+</p>
 
 
 <p align="center">
