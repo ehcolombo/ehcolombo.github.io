@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "E.H. Colombo"
   avatar           : "IMG_6286.JPG"
-  bio              : "Postdoctoral Research Associate at Princeton University"
+  bio              : "Postdoctoral Research Associate"
   location         : "Princeton, NJ, USA"
-  employer         :
+  employer         : "Princeton University (EEB) & Rutgers University (DEENR)"
   googlescholar    : "https://scholar.google.com.br/citations?user=mMCHQ9oAAAAJ&hl=en-us"
   email            : "ecolombo@princeton.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
