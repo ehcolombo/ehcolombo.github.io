@@ -17,11 +17,15 @@ Education
 
 Work experience
 ======
-* 2020- : Postdoctoral Research Associate
+* 2023- : Postdoctoral Research
+  * The Center for Advanced Systems Understanding (CASUS)
+  * Supervisor: Justin Calabrese
+  * 
+* 2020-2022 : Postdoctoral Research Associate
   * Princeton Univeristy, Departament of Ecology and Evolutionary Biology
   * Supervisor: Corina Tarnita and Juan Bonachela
 
-* 2018-2020: Postdoctoral Researcher
+* 2018-2019: Postdoctoral Researcher
   * Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)
   * Supervisor: Emilio Hernández-García and Cristóbal López
 
