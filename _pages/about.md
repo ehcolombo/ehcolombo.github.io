@@ -12,7 +12,7 @@ redirect_from:
 
 <!--
 
-My research focuses on providing a theoretical foundation to understand ecosystems across scales. Specifically, I'm mostly interested on how the environment and individual-level interactions drive species spatial organization and how it ultimately determines macroecological outcomes. Such a research line involves an interdisciplinary effort that counts with the support of collaborators and inspiring mentors.
+My research focuses on providing a theoretical foundation to understand ecosystems across scales. Specifically, I am mostly interested in how individual-level interactions drive species spatial organization, which ultimately terminates macroecological outcomes. Such a research line involves an interdisciplinary effort that counts with the support of collaborators and inspiring mentors.
 I received my doctoral degree in 2018, at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), with the thesis “Collective behavior of living beings under spatiotemporal environmental fluctuations”, advised by prof. Celia Anteneodo. After that I worked as a postdoctoral researcher at IFISC (Institute for Cross-Disciplinary Physics and Complex Systems), supervised by profs. Emilio Hernández-García and Cristóbal López, and at Princeton University (Department of Ecology and Evolutionary Biology) under the supervision of professors Corina Tarnita and Juan Bonachela (Department of Ecology, Evolution, and Natural Resources, Rutgers University). Currently, I am a postdoctoral researcher at The Center for Advanced Systems Understanding (CASUS) supervised of prof. Justin Calabrese.
 
 
